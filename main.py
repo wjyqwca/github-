@@ -6,4 +6,5 @@ print(f"Goodbye, {name}!")
 greet("GitHub")
 goodbye("GitHub")
 
-greet("GitHub and VSCode")
+# greet("GitHub and VSCode")
+greet("Everyone")
